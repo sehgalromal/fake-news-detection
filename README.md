@@ -1,4 +1,4 @@
-﻿# Fake News Detection 
+﻿# Fake News Detection using Machine Learning & Neural Networks 
 
 Combating Fake news has become one of greatest challenges on the Social Media today. Everyday millions of people are affected from Fake News causing real impacts within minutes as Fake news spreads like a wildfire. Generally, Fake news refers to false, inaccurate, or misleading information. The  goal of this project is to build Machine Learning & Deep Learning Models that classifies the news as fake or not. 
 
