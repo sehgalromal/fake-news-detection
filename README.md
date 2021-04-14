@@ -16,7 +16,7 @@ The models are built using Real and Fake news datasets. Each dataset contains th
 
 # Notebook 
 
-Please access the Fake News Detection using Machine Learning & Neural Networks.ipynb file to view the work done 
+Please access the **Fake News Detection using Machine Learning & Neural Networks.ipynb** file to view the work done 
 
 ## Technologies 
 
