@@ -14,6 +14,10 @@ The models are built using Real and Fake news datasets. Each dataset contains th
  - **subject**: Subject of the Article 
  - **date**:  When the article was posted 
 
+# Notebook 
+
+Please access the Fake News Detection using Machine Learning & Neural Networks.ipynb file to view the work done 
+
 ## Technologies 
 
  1. Python
